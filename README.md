@@ -138,10 +138,4 @@ npm run dev
 
 ---
 
-## 🪪 License
-
-MIT License – see `LICENSE`
-
----
-
-**Built with ❤️ for the BorderPass technical challenge by [Yair](https://yair.ca)**
+**Built for the BorderPass technical challenge by [Yair](https://yair.ca)**
