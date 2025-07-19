@@ -2,8 +2,6 @@
 
 A hypermodern, responsive questionnaire app built with Next.js, TypeScript, Tailwind, and Groq AI. Designed with simplicity, extensibility, and high user experience in mind—fully meeting and exceeding the BorderPass technical assessment requirements.
 
-![BorderPass Logo](https://img.shields.io/badge/BorderPass-Next.js%20App-00F5D4?style=for-the-badge&logo=react)
-
 ## 🚀 Live Demo
 
 > [https://borderpass-questionnaire.vercel.app](https://borderpass-questionnaire.vercel.app)
