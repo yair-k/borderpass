@@ -34,7 +34,6 @@ A hypermodern, responsive questionnaire app built with Next.js, TypeScript, Tail
 | Component library usage          | ✅ shadcn/ui |
 | Bonus TypeScript implementation  | ✅ Fully typed |
 | Error handling & feedback        | ✅ Custom UI with fallback logic |
-| Testing support (planned)        | 🟡 Core unit tests in progress |
 
 ---
 
