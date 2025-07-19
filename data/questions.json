@@ -1,0 +1,62 @@
+[
+  {
+    "id": "welcome",
+    "type": "welcome",
+    "title": "Welcome to BorderPass",
+    "subtitle": "Let's create your personalized travel profile. This journey will only take a few minutes and will help us understand your unique travel needs."
+  },
+  {
+    "id": "full_name",
+    "type": "short_text",
+    "title": "What's your full name?",
+    "subtitle": "Please enter your legal name as it appears on your passport or official travel documents.",
+    "required": true
+  },
+  {
+    "id": "email",
+    "type": "short_text",
+    "input_type": "email",
+    "title": "What's your email address?",
+    "subtitle": "We'll send your personalized BorderPass profile and travel insights to this address.",
+    "required": true
+  },
+  {
+    "id": "travel_frequency",
+    "type": "radio",
+    "title": "How often do you travel internationally?",
+    "subtitle": "Select the option that best describes your travel frequency over the past few years.",
+    "options": ["Multiple times a year", "Once a year", "Every few years", "Rarely or never"],
+    "required": true
+  },
+  {
+    "id": "primary_purpose",
+    "type": "radio",
+    "title": "What's your primary reason for traveling?",
+    "subtitle": "Choose the purpose that represents most of your international trips.",
+    "options": ["Business & Work", "Leisure & Vacation", "Visiting Family & Friends", "Education & Research", "Other"],
+    "required": true
+  },
+  {
+    "id": "destinations",
+    "type": "checkbox",
+    "title": "Which regions have you visited recently?",
+    "subtitle": "Select all continents you've traveled to in the past 5 years. This helps us understand your travel experience.",
+    "options": ["North America", "South America", "Europe", "Asia", "Africa", "Australia & Oceania"],
+    "required": false
+  },
+  {
+    "id": "travel_experience_rating",
+    "type": "rating",
+    "title": "How would you rate your typical airport experience?",
+    "subtitle": "Consider factors like security wait times, customs processes, and overall efficiency.",
+    "max": 5,
+    "required": true
+  },
+  {
+    "id": "feedback",
+    "type": "long_text",
+    "title": "Any suggestions for improving international travel?",
+    "subtitle": "Share your thoughts on customs, immigration, technology integration, or any aspect of the travel process. Your insights help shape the future of travel.",
+    "required": false
+  }
+]
